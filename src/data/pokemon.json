@@ -1,0 +1,52 @@
+{
+    "regions": [
+        {
+            "id": 1,
+            "name": "Kanto",
+            "generation": 1,
+            "description": "Inspirée de la région japonaise de Kantō."
+        },
+        {
+            "id": 2,
+            "name": "Johto",
+            "generation": 2,
+            "description": "Une région voisine de Kanto, avec ses propres aventures et Pokémon."
+        },
+        {
+            "id": 3,
+            "name": "Hoenn",
+            "generation": 3,
+            "description": "Connue pour ses îles tropicales, ses jungles et ses mystères."
+        },
+        {
+            "id": 4,
+            "name": "Sinnoh",
+            "generation": 4,
+            "description": "Une région enneigée avec des légendes anciennes et des Pokémon puissants."
+        },
+        {
+            "id": 5,
+            "name": "Unova",
+            "generation": 5,
+            "description": "Inspirée de la région de New York, avec une grande variété de Pokémon."
+        },
+        {
+            "id": 6,
+            "name": "Kalos",
+            "generation": 6,
+            "description": "Basée sur la France, avec un style artistique élégant et des Pokémon uniques."
+        },
+        {
+            "id": 7,
+            "name": "Alola",
+            "generation": 7,
+            "description": "Un archipel tropical avec des formes régionales spéciales pour certains Pokémon."
+        },
+        {
+            "id": 8,
+            "name": "Galar",
+            "generation": 8,
+            "description": "Inspirée du Royaume-Uni, avec des stades de combat et des Pokémon dynamax."
+        }
+    ]
+}
