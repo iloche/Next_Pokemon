@@ -10,13 +10,13 @@ const Header = () => {
                     </li>
                     <li>
                         <Link href="/region">Région</Link>
-                        </li>
+                    </li>
                     <li>
                         <Link href="/pokemon">Pokémon</Link>
-                        </li>
+                    </li>
                     <li>
                         <Link href="/about">À propos</Link>
-                        </li>
+                    </li>
                 </ul>
             </nav>
         </header>
